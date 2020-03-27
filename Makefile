@@ -1,4 +1,4 @@
-TARGET = fftwpsi3D.exe
+TARGET = fftw3psi3D.exe
 
 #################################################################
 #  sp3    Computes the Coulomb integrals from the single-particle
